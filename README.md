@@ -1,3 +1,2 @@
-# README
+# Initial page
 
-It's a book about how to raise a betta.
